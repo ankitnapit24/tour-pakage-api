@@ -34,6 +34,8 @@ Open:
 
 http://127.0.0.1:8000/docs
 
+Test it on Your Local Environment
+
 ## Main Endpoints
 
 - POST /packages/ - Create a tour package
